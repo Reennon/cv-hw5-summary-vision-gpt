@@ -98,10 +98,6 @@ VisionGPT consists of three core components:
 
 ## Conclusion
 
-Below is a revised, straightforward and concise summary of VisionGPT in a more granular and factual style:
-
----
-
 **VisionGPT Summary**
 
 VisionGPT integrates a large language model (LLM) with specialized visual models to handle tasks that combine text and images. It works in three steps:
